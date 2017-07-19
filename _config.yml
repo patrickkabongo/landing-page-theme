@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: https://patrickkabongo.github.io/
+title: Patrick Cisuaka Kabongo
+email: cracciska@gmail.com
+author: Patrick Cisuaka Kabongo
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2017 Patrick Cisuaka Kabongo. All Rights Reserved.'
+credits: 
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url: https://www.facebook.com/PatrickClive
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/patrickkabongo/patrickkabongo.github.io
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/patrick-cisuaka-kabongo-8ba491127/
