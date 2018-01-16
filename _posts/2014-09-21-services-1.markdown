@@ -8,3 +8,8 @@ description: |
   A special thanks to [Death to the Stock Photo](https://drive.google.com/drive/search?q=pdf) for providing the photographs that you see in this template.  Visit their website to become a member!
 
 you can [get the PDF]({{ https://patrickkabongo.github.io }}/assets/file.pdf) directly.
+
+<a href="{{ https://patrickkabongo.github.io }}/assets/file.pdf" target="_blank">
+		 {{ get another PDF }}
+		 
+		 </a>
