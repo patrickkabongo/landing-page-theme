@@ -9,4 +9,4 @@ description: |
 
 you can [get the PDF]({{ https://patrickkabongo.github.io }}/assets/file.pdf) directly.
 
-<a href="{{ https://patrickkabongo.github.io }}/assets/file.pdf" target="_blank">get another PDF</a>
+<a href="{{ https://patrickkabongo.github.io }}/assets/file.pdf" target="_blank">get another PDF(s)</a>
