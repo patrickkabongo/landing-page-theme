@@ -5,8 +5,7 @@ category: Services
 title: Luv2Shop:<br>A Full Stack E-commerce using Spring Boot and Angular
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](https://drive.google.com/drive/search?q=pdf) for providing the photographs that you see in this template.  Visit their website to become a member!
+  In this project, I used 3 main technologies: Spring Data Rest and MySQL for Back-end and Angular for Front-end.
 
-you can [get the PDF]({{ https://patrickkabongo.github.io }}/assets/file.pdf) directly.
+For more details about the project, visit  the [project repository](https://github.com/patrickkabongo/Springboot_Ecommerce)
 
-<a href="{{ https://patrickkabongo.github.io }}/assets/file.pdf" target="_blank">get another PDF(s)</a>
