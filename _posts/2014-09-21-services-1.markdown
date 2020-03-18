@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Luv2Shop:<br>A Full Stack E-commerce using Spring Boot and Angular
 description: |
 ---
   A special thanks to [Death to the Stock Photo](https://drive.google.com/drive/search?q=pdf) for providing the photographs that you see in this template.  Visit their website to become a member!
