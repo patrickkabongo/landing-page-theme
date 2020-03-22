@@ -2,10 +2,10 @@
 layout: default
 img: corona.png
 category: Services
-title: Coronvirus Tracker App 
+title: Coronavirus Tracker App 
 description: |
 ---
-  A small application to track the coronovirus situation in Brazil.
+  A small application to track the coronavirus situation in Brazil.
   
   In this project, I used Spring MVC and Thymeleaf. To receive the data, I made a request in a [github repository](https://raw.githubusercontent.com/patrickkabongo/patrickkabongo.github.io/master/assets/brazil_covid19.csv)
 
