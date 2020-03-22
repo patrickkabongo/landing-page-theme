@@ -1,10 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: corona.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Coronvirus Tracker App 
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  A small application to track the coronovirus situation in Brazil.
+  
+  In this project, I used Spring MVC and Thymeleaf. To receive the data, I made a request in a [github repository](https://raw.githubusercontent.com/patrickkabongo/patrickkabongo.github.io/master/assets/brazil_covid19.csv)
+
+For more details about the project, visit the [project repository](https://github.com/patrickkabongo/coronavirus-tracker)
