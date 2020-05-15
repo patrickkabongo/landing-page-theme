@@ -1,0 +1,11 @@
+---
+layout: default
+img: crud.png
+category: Services
+title: Angular 9 + Spring Boot 2 CRUD
+description: |
+---
+  In this project, I created a small CRUD app using 3 main technologies: Spring Data JPA Rest and PostgreSQL for Back-end and Angular 9 for Front-end.
+
+For more details about the project, visit  the [project repository - backend](https://github.com/patrickkabongo/SpringBoot-Data-JPA-Rest-CRUD)
+and the [project repository - frontend](https://github.com/patrickkabongo/Angular9-CRUD).
