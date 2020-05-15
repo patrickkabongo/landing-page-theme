@@ -7,5 +7,5 @@ description: |
 ---
   In this project, I used 3 main technologies: Spring Data Rest and MySQL for Back-end and Angular for Front-end.
 
-For more details about the project, visit  the [project repository](https://github.com/patrickkabongo/Springboot_Ecommerce)
+For more details about the project, visit  the [project repository - backend](https://github.com/patrickkabongo/Springboot_Ecommerce) and the [project repository - frontend](https://github.com/patrickkabongo/Angular-Ecommerce)
 
