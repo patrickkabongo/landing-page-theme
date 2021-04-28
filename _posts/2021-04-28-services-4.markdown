@@ -1,1 +1,10 @@
+---
+layout: default
+img: space_invaders.png
+category: Services
+title: Building Space Invaders in HTML CSS and Javascript!
+description: |
+---
+  In this project, I created a Space Invaders game using 3 main technologies: HTML, CSS and Javascript.
 
+For more details about the project, visit  the [project repository](https://github.com/patrickkabongo/space_invaders).
